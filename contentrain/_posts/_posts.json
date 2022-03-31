@@ -37,7 +37,12 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.",
     "tags": [],
     "coverImage": "public/assets/1648739243381_cover.jpg",
-    "author": [],
+    "author": {
+      "createdAt": 1648739290435,
+      "ID": "dbdaba40-b350-457e-a1e5-54a1c0c3de68",
+      "name": "Tim Neutkens",
+      "picture": "public/assets/1648739288704_tim.jpeg"
+    },
     "ogImage": []
   }
 ]
