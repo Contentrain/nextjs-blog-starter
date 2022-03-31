@@ -1,7 +1,8 @@
 ---
 createdAt: 1648739428683
 title: "Preview Mode for Static Generation"
-categories: []
+categories:
+  - "lorem"
 ID: "2f9224a8-8a7f-4ded-b983-408aaeeae180"
 slug: "preview"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
