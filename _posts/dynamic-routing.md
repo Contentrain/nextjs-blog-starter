@@ -9,6 +9,7 @@ slug: "dynamic-routing"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 tags:
   - "#dolor"
+  - "#color"
 coverImage: "public/assets/1648738985918_cover.jpg"
 author:
   createdAt: 1648739082811
