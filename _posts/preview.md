@@ -6,7 +6,8 @@ categories:
 ID: "2f9224a8-8a7f-4ded-b983-408aaeeae180"
 slug: "preview"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-tags: []
+tags:
+  - "tas"
 coverImage: "public/assets/1648739422825_cover.jpg"
 author:
   createdAt: 1648739479178
