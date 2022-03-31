@@ -7,7 +7,8 @@ categories:
 ID: "bd2805d9-2da7-4676-b5ca-0fb7c3db6ac5"
 slug: "dynamic-routing"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-tags: []
+tags:
+  - "#dolor"
 coverImage: "public/assets/1648738985918_cover.jpg"
 author:
   createdAt: 1648739082811
