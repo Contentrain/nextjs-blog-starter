@@ -7,7 +7,11 @@ slug: "preview"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 tags: []
 coverImage: "public/assets/1648739422825_cover.jpg"
-author: []
+author:
+  createdAt: 1648739479178
+  ID: "524c0608-83d6-4bb0-a833-3e2e4df14959"
+  name: "Joe Haddad"
+  picture: "public/assets/1648739476671_joe.jpeg"
 ogImage: []
 
 ---
