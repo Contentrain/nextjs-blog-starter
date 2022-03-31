@@ -12,7 +12,10 @@ author:
   ID: "dbdaba40-b350-457e-a1e5-54a1c0c3de68"
   name: "Tim Neutkens"
   picture: "public/assets/1648739288704_tim.jpeg"
-ogImage: []
+ogImage:
+  createdAt: 1648739317226
+  ID: "672bd3a8-91c5-4a58-8bf3-cb9b8ec41622"
+  url: "public/assets/1648739315949_cover.jpg"
 
 ---
 ---
