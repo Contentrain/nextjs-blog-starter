@@ -1,7 +1,8 @@
 ---
 createdAt: 1648739260962
 title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-categories: []
+categories:
+  - "lorem"
 ID: "2a34915d-d59f-42e4-919c-10518bf22797"
 slug: "hello-word"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
