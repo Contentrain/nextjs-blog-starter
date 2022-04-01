@@ -1,8 +1,9 @@
 [
   {
+    "updatedAt": 1648802711928,
     "createdAt": 1648802703340,
     "ID": "50be3da6-beb2-4474-983a-facbc9622091",
-    "text": "tatically Generated with Next.js.",
+    "text": "Statically Generated with Next.js.",
     "documentation": [],
     "github": []
   }
