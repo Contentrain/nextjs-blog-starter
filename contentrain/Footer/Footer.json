@@ -4,7 +4,12 @@
     "createdAt": 1648802703340,
     "ID": "50be3da6-beb2-4474-983a-facbc9622091",
     "text": "Statically Generated with Next.js.",
-    "documentation": [],
+    "documentation": {
+      "createdAt": 1648802734821,
+      "ID": "7c91c286-cfaa-4dc8-9e63-6b1bfad03c1c",
+      "text": "Read Documentation",
+      "link": "https://nextjs.org/docs/basic-features/pages"
+    },
     "github": []
   }
 ]
