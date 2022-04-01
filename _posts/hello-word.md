@@ -9,16 +9,16 @@ slug: "hello-word"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 tags:
   - "tags"
-coverImage: "public/assets/1648739243381_cover.jpg"
+coverImage: "/public/assets/1648739243381_cover.jpg"
 author:
   createdAt: 1648739290435
   ID: "dbdaba40-b350-457e-a1e5-54a1c0c3de68"
   name: "Tim Neutkens"
-  picture: "public/assets/1648739288704_tim.jpeg"
+  picture: "/public/assets/1648739288704_tim.jpeg"
 ogImage:
   createdAt: 1648739317226
   ID: "672bd3a8-91c5-4a58-8bf3-cb9b8ec41622"
-  url: "public/assets/1648739315949_cover.jpg"
+  url: "/public/assets/1648739315949_cover.jpg"
 
 ---
 ---

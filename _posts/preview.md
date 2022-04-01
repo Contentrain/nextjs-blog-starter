@@ -8,16 +8,16 @@ slug: "preview"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 tags:
   - "tas"
-coverImage: "public/assets/1648739422825_cover.jpg"
+coverImage: "/public/assets/1648739422825_cover.jpg"
 author:
   createdAt: 1648739479178
   ID: "524c0608-83d6-4bb0-a833-3e2e4df14959"
   name: "Joe Haddad"
-  picture: "public/assets/1648739476671_joe.jpeg"
+  picture: "/public/assets/1648739476671_joe.jpeg"
 ogImage:
   createdAt: 1648739508370
   ID: "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412"
-  url: "public/assets/1648739507420_cover.jpg"
+  url: "/public/assets/1648739507420_cover.jpg"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

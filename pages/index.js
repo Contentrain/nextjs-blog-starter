@@ -22,10 +22,10 @@ export default function Index({ allPosts }) {
             <HeroPost
               title={heroPost.title}
               coverImage={heroPost.coverImage}
-              date={heroPost.date}
+              createdAt={heroPost.createdAt}
               author={heroPost.author}
               slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
+              description={heroPost.description}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
@@ -38,11 +38,11 @@ export default function Index({ allPosts }) {
 export async function getStaticProps() {
   const allPosts = getAllPosts([
     'title',
-    'date',
+    'createdAt',
     'slug',
     'author',
     'coverImage',
-    'excerpt',
+    'description',
   ])
 
   return {

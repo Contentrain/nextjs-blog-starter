@@ -12,10 +12,10 @@ export default function MoreStories({ posts }) {
             key={post.slug}
             title={post.title}
             coverImage={post.coverImage}
-            date={post.date}
+            createdAt={post.createdAt}
             author={post.author}
             slug={post.slug}
-            excerpt={post.excerpt}
+            description={post.description}
           />
         ))}
       </div>

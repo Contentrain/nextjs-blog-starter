@@ -5,7 +5,7 @@ import Image from 'next/image'
 export default function CoverImage({ title, src, slug, height, width }) {
   const image = (
     <Image
-      src={src}
+      src={splitPath(src)}
       alt={`Cover Image for ${title}`}
       className={cn('shadow-sm', {
         'hover:shadow-md transition-shadow duration-200': slug,
@@ -26,4 +26,9 @@ export default function CoverImage({ title, src, slug, height, width }) {
       )}
     </div>
   )
+}
+const splitPath = (path) => { 
+  const all = path.split('/public')
+  all.shift()
+  return all.join('/')
 }

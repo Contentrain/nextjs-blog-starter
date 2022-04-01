@@ -3,7 +3,7 @@ import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
 import PostTitle from '../components/post-title'
 
-export default function PostHeader({ title, coverImage, date, author }) {
+export default function PostHeader({ title, coverImage, createdAt, author }) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -18,7 +18,7 @@ export default function PostHeader({ title, coverImage, date, author }) {
           <Avatar name={author.name} picture={author.picture} />
         </div>
         <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
+          <DateFormatter dateString={createdAt} />
         </div>
       </div>
     </>

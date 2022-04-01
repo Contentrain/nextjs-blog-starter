@@ -10,16 +10,16 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 tags:
   - "#dolor"
   - "#color"
-coverImage: "public/assets/1648738985918_cover.jpg"
+coverImage: "/public/assets/1648738985918_cover.jpg"
 author:
   createdAt: 1648739082811
   ID: "e732fed6-7c54-4f29-97da-ff49a6b0b887"
   name: "JJ Kasper"
-  picture: "public/assets/1648739081698_jj.jpeg"
+  picture: "/public/assets/1648739081698_jj.jpeg"
 ogImage:
   createdAt: 1648739041550
   ID: "6139df3d-35ff-4d1b-8f68-545c3df622f2"
-  url: "public/assets/1648739038350_cover.jpg"
+  url: "/public/assets/1648739038350_cover.jpg"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

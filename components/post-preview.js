@@ -6,8 +6,8 @@ import Link from 'next/link'
 export default function PostPreview({
   title,
   coverImage,
-  date,
-  excerpt,
+  createdAt,
+  description,
   author,
   slug,
 }) {
@@ -28,9 +28,9 @@ export default function PostPreview({
         </Link>
       </h3>
       <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
+        <DateFormatter dateString={createdAt} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg leading-relaxed mb-4">{description}</p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   )
