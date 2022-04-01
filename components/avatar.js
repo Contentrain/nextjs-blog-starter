@@ -14,7 +14,7 @@ export default function Avatar({ name, picture }) {
   )
 }
 const splitPath = (path) => { 
-  const all = path.split('/public')
+  const all = path.split('public')
   all.shift()
   return all.join('/')
 }

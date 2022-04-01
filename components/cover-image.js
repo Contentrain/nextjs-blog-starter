@@ -28,7 +28,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
   )
 }
 const splitPath = (path) => { 
-  const all = path.split('/public')
+  const all = path.split('public')
   all.shift()
   return all.join('/')
 }
