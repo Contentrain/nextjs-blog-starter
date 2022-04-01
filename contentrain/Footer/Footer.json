@@ -10,6 +10,11 @@
       "text": "Read Documentation",
       "link": "https://nextjs.org/docs/basic-features/pages"
     },
-    "github": []
+    "github": {
+      "createdAt": 1648802761441,
+      "ID": "6f0d23ff-c988-47f5-8690-17c1bd80f9ef",
+      "text": "View on GitHub",
+      "link": "https://github.com/Contentrain/nextjs-blog-starter"
+    }
   }
 ]
