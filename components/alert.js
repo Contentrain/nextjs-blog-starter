@@ -1,6 +1,7 @@
 import Container from './container'
 import cn from 'classnames'
-import { EXAMPLE_PATH } from '../lib/constants'
+import data from '../contentrain/Alert/Alert.json'
+const alertData = data[0]
 
 export default function Alert({ preview }) {
   return (
@@ -25,12 +26,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              {alertData.text}{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={alertData.examplelink}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+                {alertData.underlinetext}
               </a>
               .
             </>
